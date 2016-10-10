@@ -1,0 +1,15 @@
+{
+    "name": "ip/ip",
+    "description": "des",
+    "type": "library",
+    "require": {
+        "php": "5.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ip\\ip\\": "src/"
+        }
+    }
+}
