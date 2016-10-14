@@ -1,5 +1,5 @@
 {
-    "name": "ip/ip",
+    "name": "ip_location/ip",
     "description": "des",
     "type": "library",
     "require": {
