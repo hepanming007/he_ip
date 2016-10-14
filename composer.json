@@ -1,5 +1,5 @@
 {
-    "name": "ip_location/ip",
+    "name": "hepm_ip/ip",
     "description": "des",
     "type": "library",
     "require": {
